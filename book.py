@@ -54,7 +54,13 @@ Genre : {self.genre}
 Rating : {self.rating}
 Pages : {self.pages}
 """
-    
+   
+    def __eq__(self, other) -> bool:
+        if isinstance(other, Book):
+            return (self.name.lower() == other.name.lower() and
+                    self.author.lower() == other.author.lower() and
+                    self.pages == other.pages)
+        return False    
 
     def to_dict(self) -> dict:
         # This function converts the Book class object into a dict.
@@ -83,8 +89,10 @@ Pages : {self.pages}
 if __name__ == "__main__": 
     # Testing code
     book1 = Book('Ibadat', "Ayush Shukla", "Poetry", datetime.date(2024,11,10), datetime.date(2024,12,22), 5, 150) 
+
+    book2 = Book('Ibadat', "Ayush Shukla", "Poetry", datetime.date(2024,11,10), datetime.date(2024,12,22), 5, 150) 
     book1_dict = book1.to_dict()
-    print(type(book1_dict))
+    print(book1_dict)
     book1_book = Book.from_dict(book1_dict)
     print(book1_book)
 
@@ -94,6 +102,7 @@ if __name__ == "__main__":
         genre="Genre",
         date_started=datetime.date(2024, 1, 1),
         date_finished=datetime.date(2024, 1, 15),
-        rating='4',  # None
+        rating=4,  # None
         pages=100
     )
+    print(book1 == book2)

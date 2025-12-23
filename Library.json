@@ -1,0 +1,326 @@
+[
+    {
+        "name": "Ibadat",
+        "author": "Ayush Shukla",
+        "genre": "Poetry",
+        "date_started": "2024-11-10",
+        "date_finished": "2024-12-22",
+        "rating": 5,
+        "pages": 150
+    },
+    {
+        "name": "RashmiRathi",
+        "author": "Ramdhari Singh Dinkar",
+        "genre": "Poetry",
+        "date_started": "2024-08-13",
+        "date_finished": "2024-09-12",
+        "rating": 4.5,
+        "pages": 300
+    },
+    {
+        "name": "A Court of Mist and Fury",
+        "author": "Sarah J.",
+        "genre": "Fantasy Novel",
+        "date_started": "2024-11-10",
+        "date_finished": "2024-12-22",
+        "rating": 3.5,
+        "pages": 450
+    },
+    {
+        "name": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "genre": "Thriller",
+        "date_started": "2024-01-05",
+        "date_finished": "2024-02-10",
+        "rating": 4.5,
+        "pages": 368
+    },
+    {
+        "name": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "genre": "Mystery",
+        "date_started": "2023-11-01",
+        "date_finished": "2023-12-15",
+        "rating": 4.8,
+        "pages": 375
+    },
+    {
+        "name": "The Midnight Library",
+        "author": "Matt Haig",
+        "genre": "Fantasy",
+        "date_started": "2023-07-20",
+        "date_finished": "2023-09-01",
+        "rating": 4.2,
+        "pages": 304
+    },
+    {
+        "name": "Becoming",
+        "author": "Michelle Obama",
+        "genre": "Biography",
+        "date_started": "2024-05-15",
+        "date_finished": "2024-06-25",
+        "rating": 4.9,
+        "pages": 448
+    },
+    {
+        "name": "Educated",
+        "author": "Tara Westover",
+        "genre": "Memoir",
+        "date_started": "2024-04-10",
+        "date_finished": "2024-05-05",
+        "rating": 4.7,
+        "pages": 334
+    },
+    {
+        "name": "The Book Thief",
+        "author": "Markus Zusak",
+        "genre": "Historical Fiction",
+        "date_started": "2024-08-12",
+        "date_finished": "2024-09-18",
+        "rating": 4.6,
+        "pages": 552
+    },
+    {
+        "name": "Dune",
+        "author": "Frank Herbert",
+        "genre": "Science Fiction",
+        "date_started": "2024-02-01",
+        "date_finished": "2024-03-30",
+        "rating": 4.8,
+        "pages": 896
+    },
+    {
+        "name": "The Vanishing Half",
+        "author": "Brit Bennett",
+        "genre": "Literary Fiction",
+        "date_started": "2024-03-15",
+        "date_finished": "2024-04-25",
+        "rating": 4.5,
+        "pages": 343
+    },
+    {
+        "name": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Adventure",
+        "date_started": "2024-06-05",
+        "date_finished": "2024-07-10",
+        "rating": 4.4,
+        "pages": 208
+    },
+    {
+        "name": "The Four Winds",
+        "author": "Kristin Hannah",
+        "genre": "Historical Fiction",
+        "date_started": "2024-09-01",
+        "date_finished": "2024-10-20",
+        "rating": 4.7,
+        "pages": 464
+    },
+    {
+        "name": "The Giver of Stars",
+        "author": "Jojo Moyes",
+        "genre": "Historical Fiction",
+        "date_started": "2024-07-10",
+        "date_finished": "2024-08-20",
+        "rating": 4.3,
+        "pages": 400
+    },
+    {
+        "name": "Circe",
+        "author": "Madeline Miller",
+        "genre": "Fantasy",
+        "date_started": "2024-10-01",
+        "date_finished": "2024-11-10",
+        "rating": 4.5,
+        "pages": 400
+    },
+    {
+        "name": "The Invisible Life of Addie LaRue",
+        "author": "V.E. Schwab",
+        "genre": "Fantasy",
+        "date_started": "2024-01-10",
+        "date_finished": "2024-02-15",
+        "rating": 4.7,
+        "pages": 444
+    },
+    {
+        "name": "Normal People",
+        "author": "Sally Rooney",
+        "genre": "Romance",
+        "date_started": "2023-12-01",
+        "date_finished": "2024-01-10",
+        "rating": 4.3,
+        "pages": 273
+    },
+    {
+        "name": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "genre": "Fantasy",
+        "date_started": "2024-03-10",
+        "date_finished": "2024-04-30",
+        "rating": 4.6,
+        "pages": 387
+    },
+    {
+        "name": "The Secret History",
+        "author": "Donna Tartt",
+        "genre": "Thriller",
+        "date_started": "2024-11-15",
+        "date_finished": "2024-12-20",
+        "rating": 4.7,
+        "pages": 559
+    },
+    {
+        "name": "Little Fires Everywhere",
+        "author": "Celeste Ng",
+        "genre": "Literary Fiction",
+        "date_started": "2024-02-05",
+        "date_finished": "2024-03-05",
+        "rating": 4.4,
+        "pages": 338
+    },
+    {
+        "name": "The Seven Husbands of Evelyn Hugo",
+        "author": "Taylor Jenkins Reid",
+        "genre": "Romance",
+        "date_started": "2024-06-01",
+        "date_finished": "2024-07-15",
+        "rating": 4.6,
+        "pages": 400
+    },
+    {
+        "name": "The Goldfinch",
+        "author": "Donna Tartt",
+        "genre": "Literary Fiction",
+        "date_started": "2024-05-01",
+        "date_finished": "2024-06-10",
+        "rating": 4.8,
+        "pages": 771
+    },
+    {
+        "name": "The Shadow of the Wind",
+        "author": "Carlos Ruiz Zaf\u00f3n",
+        "genre": "Historical Fiction",
+        "date_started": "2024-04-01",
+        "date_finished": "2024-05-20",
+        "rating": 4.7,
+        "pages": 487
+    },
+    {
+        "name": "A Little Life",
+        "author": "Hanya Yanagihara",
+        "genre": "Literary Fiction",
+        "date_started": "2024-08-01",
+        "date_finished": "2024-09-15",
+        "rating": 4.6,
+        "pages": 720
+    },
+    {
+        "name": "Anxious People",
+        "author": "Fredrik Backman",
+        "genre": "Comedy",
+        "date_started": "2024-07-15",
+        "date_finished": "2024-08-05",
+        "rating": 4.4,
+        "pages": 368
+    },
+    {
+        "name": "All the Light We Cannot See",
+        "author": "Anthony Doerr",
+        "genre": "Historical Fiction",
+        "date_started": "2024-09-01",
+        "date_finished": "2024-10-05",
+        "rating": 4.7,
+        "pages": 531
+    },
+    {
+        "name": "The Ocean at the End of the Lane",
+        "author": "Neil Gaiman",
+        "genre": "Fantasy",
+        "date_started": "2024-02-20",
+        "date_finished": "2024-03-10",
+        "rating": 4.5,
+        "pages": 181
+    },
+    {
+        "name": "The Henna Artist",
+        "author": "Alka Joshi",
+        "genre": "Historical Fiction",
+        "date_started": "2024-06-25",
+        "date_finished": "2024-08-10",
+        "rating": 4.6,
+        "pages": 358
+    },
+    {
+        "name": "The Song of Achilles",
+        "author": "Madeline Miller",
+        "genre": "Fantasy",
+        "date_started": "2024-05-05",
+        "date_finished": "2024-06-15",
+        "rating": 4.8,
+        "pages": 374
+    },
+    {
+        "name": "Homegoing",
+        "author": "Yaa Gyasi",
+        "genre": "Historical Fiction",
+        "date_started": "2024-03-10",
+        "date_finished": "2024-04-15",
+        "rating": 4.6,
+        "pages": 305
+    },
+    {
+        "name": "Red, White & Royal Blue",
+        "author": "Casey McQuiston",
+        "genre": "Romance",
+        "date_started": "2024-02-01",
+        "date_finished": "2024-03-01",
+        "rating": 4.6,
+        "pages": 421
+    },
+    {
+        "name": "The House in the Cerulean Sea",
+        "author": "TJ Klune",
+        "genre": "Fantasy",
+        "date_started": "2024-07-10",
+        "date_finished": "2024-08-01",
+        "rating": 4.7,
+        "pages": 400
+    },
+    {
+        "name": "The Light We Lost",
+        "author": "Jill Santopolo",
+        "genre": "Romance",
+        "date_started": "2024-06-15",
+        "date_finished": "2024-07-10",
+        "rating": 4.4,
+        "pages": 368
+    },
+    {
+        "name": "The Chain",
+        "author": "Adrian McKinty",
+        "genre": "Thriller",
+        "date_started": "2024-08-15",
+        "date_finished": "2024-09-05",
+        "rating": 4.5,
+        "pages": 416
+    },
+    {
+        "name": "The Whisper Man",
+        "author": "Alex North",
+        "genre": "Thriller",
+        "date_started": "2024-01-25",
+        "date_finished": "2024-02-15",
+        "rating": 4.3,
+        "pages": 368
+    },
+    {
+        "name": "Kohinoor",
+        "author": "Imam gandhi",
+        "genre": "Fantasy",
+        "date_started": "2025-12-12",
+        "date_finished": "2025-12-31",
+        "rating": 5.0,
+        "pages": 130
+    }
+]
